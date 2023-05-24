@@ -10,7 +10,7 @@ import org.springframework.transaction.TransactionManager;
 
 import javax.sql.DataSource;
 
-@Configuration @Slf4j
+@Slf4j
 public class DbConfig {
 
     @Bean
