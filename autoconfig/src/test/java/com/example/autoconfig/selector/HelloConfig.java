@@ -10,5 +10,4 @@ public class HelloConfig {
     public HelloBean helloBean() {
         return new HelloBean();
     }
-
 }
